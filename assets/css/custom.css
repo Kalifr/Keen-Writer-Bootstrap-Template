@@ -1,0 +1,26 @@
+body{
+	background: #fff;
+}
+header{
+	background: none;
+}
+.navbar-wrapper{
+	padding-top: 10px;
+}
+footer{
+	background: #7A7A7A;
+	padding: 10px 0;
+}
+footer strong{
+	color: #E9E9E9;
+}
+#MyLiveChatContainer{
+	padding: 5px 0 5px 5px;
+}
+.actionbar{
+	margin-top: 10px;
+}
+.intro-points span{
+	font-size: 3em;
+	color: #43C6DB;
+}
